@@ -9,9 +9,12 @@ try:
     numerator = int(input('Enter the index of numerator: \n'))
     denominator = int(input('Enter the index of denominator: \n'))
     print(list[numerator] / list[denominator])
-except:
-    print('Hey there was an issue ! ')
-
+except KeyError:
+    print('key does not exist')
+except ZeroDivisionError:
+    print('cannot divide by zero')
+except IndexError:
+    print('index out of range')
 
 print('Execution terminated normally')
 
