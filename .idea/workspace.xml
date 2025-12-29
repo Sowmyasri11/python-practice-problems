@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0396cdc-bc01-43a0-84fc-c7780708f86e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice_set1/rev_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_set1/digital_lock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
     "Python.password_strength_evaluator.executor": "Run",
     "Python.prime_range_analyzer.executor": "Run",
     "Python.restaurant.executor": "Run",
+    "Python.rev_num.executor": "Run",
     "Python.salary_deduction_system.executor": "Run",
     "Python.smart_door_lock.executor": "Run",
     "Python.smart_electricity_billing.executor": "Run",
@@ -95,7 +97,7 @@
       <updated>1766937012996</updated>
       <workItem from="1766937014268" duration="9317000" />
       <workItem from="1766984352891" duration="22790000" />
-      <workItem from="1767018609656" duration="3613000" />
+      <workItem from="1767018609656" duration="4052000" />
     </task>
     <servers />
   </component>
@@ -136,6 +138,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1767008375161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Lists" />
     <SUITE FILE_PATH="coverage/PythonProject$smart_door_lock.coverage" NAME="smart_door_lock Coverage Results" MODIFIED="1766947111183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$mobile_number_validation.coverage" NAME="mobile_number_validation Coverage Results" MODIFIED="1766997434586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
+    <SUITE FILE_PATH="coverage/PythonProject$rev_num.coverage" NAME="rev_num Coverage Results" MODIFIED="1767029178050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$traffic_signal_simulation.coverage" NAME="traffic_signal_simulation Coverage Results" MODIFIED="1766940047313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$salary_deduction_system.coverage" NAME="salary_deduction_system Coverage Results" MODIFIED="1766940782376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$types_of_exception.coverage" NAME="types_of_exception Coverage Results" MODIFIED="1766987793286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
