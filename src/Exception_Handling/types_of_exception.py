@@ -15,6 +15,8 @@ except ZeroDivisionError:
     print('cannot divide by zero')
 except IndexError:
     print('index out of range')
+except Exception as e:
+    print(e)     # uses dunder str method to display the  exception message
 
 print('Execution terminated normally')
 
