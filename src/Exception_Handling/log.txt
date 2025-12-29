@@ -1,6 +1,5 @@
-ERROR:root:Invalid input
+2025-12-29 16:48:24,525 - root - ERROR - Exception occurred
 Traceback (most recent call last):
-  File "C:\Users\HP\PycharmProjects\PythonProject\src\Exception_Handling\logger_error_demo.py", line 8, in div
-    quotient = numerator / denominator
-               ~~~~~~~~~~^~~~~~~~~~~~~
-ZeroDivisionError: division by zero
+  File "C:\Users\HP\PycharmProjects\PythonProject\src\Exception_Handling\log_complete_info.py", line 11, in fun
+    rank = int(input("Enter the rank of the language: "))
+ValueError: invalid literal for int() with base 10: 'first'
