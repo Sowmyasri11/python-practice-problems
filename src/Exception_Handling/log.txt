@@ -1,0 +1,5 @@
+INFO:root:main() started execution
+INFO:root:input taken from user
+INFO:root:calling sum_Even()
+INFO:root:sum_even() started execution
+INFO:root:sum_even() finished execution
