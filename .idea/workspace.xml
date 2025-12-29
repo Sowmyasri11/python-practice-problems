@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0396cdc-bc01-43a0-84fc-c7780708f86e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lists/listcomp_using_ifelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_set1/water_tank_overflow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +93,7 @@
       <updated>1766937012996</updated>
       <workItem from="1766937014268" duration="9317000" />
       <workItem from="1766984352891" duration="22790000" />
-      <workItem from="1767018609656" duration="1296000" />
+      <workItem from="1767018609656" duration="2978000" />
     </task>
     <servers />
   </component>
