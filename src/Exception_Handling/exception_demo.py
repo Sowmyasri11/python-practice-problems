@@ -10,7 +10,8 @@ simple_interest=(principal_amount*time_duration*rate_of_interest)/100
 
 print('simple_interest = ',simple_interest)
 
-print("connection closed")
+print("connection has been close to the server")
+
 
 
 
