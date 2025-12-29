@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0396cdc-bc01-43a0-84fc-c7780708f86e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lists/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lists/list_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/listcomp_using_ifelse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,48 +28,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.atm_validator.executor": "Run",
-    "Python.binary_to_decimal.executor": "Run",
-    "Python.exam_result.executor": "Run",
-    "Python.exception_demo.executor": "Run",
-    "Python.exception_handling_mechanism.executor": "Run",
-    "Python.finally_demo.executor": "Run",
-    "Python.list_comprehension.executor": "Run",
-    "Python.log_complete_info.executor": "Run",
-    "Python.logger_debug_demo.executor": "Run",
-    "Python.logger_error_demo.executor": "Run",
-    "Python.logger_warning_demo.executor": "Run",
-    "Python.loggers_demo.executor": "Run",
-    "Python.login_form.executor": "Run",
-    "Python.mobile_battery_drain_simulator.executor": "Run",
-    "Python.mobile_number_validation.executor": "Run",
-    "Python.number_compression_counter.executor": "Run",
-    "Python.number_pattern.executor": "Run",
-    "Python.online_order_discount_engine.executor": "Run",
-    "Python.password_strength_evaluator.executor": "Run",
-    "Python.prime_range_analyzer.executor": "Run",
-    "Python.restaurant.executor": "Run",
-    "Python.salary_deduction_system.executor": "Run",
-    "Python.smart_door_lock.executor": "Run",
-    "Python.smart_electricity_billing.executor": "Run",
-    "Python.ticket_fare_cal.executor": "Run",
-    "Python.traffic_signal_simulation.executor": "Run",
-    "Python.types_of_exception.executor": "Run",
-    "Python.vowel_frequency.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "main",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.atm_validator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary_to_decimal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exam_result.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception_handling_mechanism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.finally_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listcomp_using_ifelse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.log_complete_info.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logger_debug_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logger_error_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logger_warning_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loggers_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login_form.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mobile_battery_drain_simulator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mobile_number_validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_compression_counter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.online_order_discount_engine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_strength_evaluator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_range_analyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.restaurant.executor&quot;: &quot;Run&quot;,
+    &quot;Python.salary_deduction_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.smart_door_lock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.smart_electricity_billing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ticket_fare_cal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.traffic_signal_simulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.types_of_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vowel_frequency.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\PycharmProjects\PythonProject\src\practice_set1" />
@@ -92,7 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1766937012996</updated>
       <workItem from="1766937014268" duration="9317000" />
-      <workItem from="1766984352891" duration="21303000" />
+      <workItem from="1766984352891" duration="22790000" />
+      <workItem from="1767018609656" duration="1296000" />
     </task>
     <servers />
   </component>
@@ -128,7 +129,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$login_form.coverage" NAME="login_form Coverage Results" MODIFIED="1767000133306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$logger_warning_demo.coverage" NAME="logger_warning_demo Coverage Results" MODIFIED="1767004168418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$exception_handling_mechanism.coverage" NAME="exception_handling_mechanism Coverage Results" MODIFIED="1766990904628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
-    <SUITE FILE_PATH="coverage/PythonProject$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1767008352221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Lists" />
+    <SUITE FILE_PATH="coverage/PythonProject$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1767008375161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Lists" />
     <SUITE FILE_PATH="coverage/PythonProject$smart_door_lock.coverage" NAME="smart_door_lock Coverage Results" MODIFIED="1766947111183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$mobile_number_validation.coverage" NAME="mobile_number_validation Coverage Results" MODIFIED="1766997434586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$traffic_signal_simulation.coverage" NAME="traffic_signal_simulation Coverage Results" MODIFIED="1766940047313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
@@ -136,6 +137,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$types_of_exception.coverage" NAME="types_of_exception Coverage Results" MODIFIED="1766987793286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$restaurant.coverage" NAME="restaurant Coverage Results" MODIFIED="1766992377579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$finally_demo.coverage" NAME="finally_demo Coverage Results" MODIFIED="1766993090503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
+    <SUITE FILE_PATH="coverage/PythonProject$listcomp_using_ifelse.coverage" NAME="listcomp_using_ifelse Coverage Results" MODIFIED="1767009877091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Lists" />
     <SUITE FILE_PATH="coverage/PythonProject$logger_debug_demo.coverage" NAME="logger_debug_demo Coverage Results" MODIFIED="1767003170216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$ticket_fare_cal.coverage" NAME="ticket_fare_cal Coverage Results" MODIFIED="1766946469673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$log_complete_info.coverage" NAME="log_complete_info Coverage Results" MODIFIED="1767007100136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
