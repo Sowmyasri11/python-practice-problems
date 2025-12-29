@@ -3,3 +3,9 @@ INFO:root:input taken from user
 INFO:root:calling sum_Even()
 INFO:root:sum_even() started execution
 INFO:root:sum_even() finished execution
+DEBUG:root:a= 10
+DEBUG:root:b= 5
+DEBUG:root:result1= 15
+DEBUG:root:result2= 5
+DEBUG:root:result3= 50
+DEBUG:root:result4= 2.0
