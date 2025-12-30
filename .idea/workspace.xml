@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0396cdc-bc01-43a0-84fc-c7780708f86e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/file handling/creating_csv_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file handling/read_data_from_csv_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
     "Python.cal_stu_total_avg.executor": "Run",
     "Python.count_vowels.executor": "Run",
     "Python.creating_copy_of_file.executor": "Run",
+    "Python.creating_csv_file.executor": "Run",
     "Python.creating_text_file.executor": "Run",
     "Python.dict_comprehesion.executor": "Run",
     "Python.digital_lock.executor": "Run",
@@ -108,7 +109,7 @@
       <workItem from="1766937014268" duration="9317000" />
       <workItem from="1766984352891" duration="22790000" />
       <workItem from="1767018609656" duration="4637000" />
-      <workItem from="1767063380526" duration="6669000" />
+      <workItem from="1767063380526" duration="7032000" />
     </task>
     <servers />
   </component>
@@ -129,6 +130,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$cal_stu_total_avg.coverage" NAME="cal_stu_total_avg Coverage Results" MODIFIED="1767075733918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$exception_demo.coverage" NAME="exception_demo Coverage Results" MODIFIED="1766986031119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
+    <SUITE FILE_PATH="coverage/PythonProject$creating_csv_file.coverage" NAME="creating_csv_file Coverage Results" MODIFIED="1767077038252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$creating_copy_of_file.coverage" NAME="creating_copy_of_file Coverage Results" MODIFIED="1767075220460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$number_compression_counter.coverage" NAME="number_compression_counter Coverage Results" MODIFIED="1766946235195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$online_order_discount_engine.coverage" NAME="online_order_discount_engine Coverage Results" MODIFIED="1766945435537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
