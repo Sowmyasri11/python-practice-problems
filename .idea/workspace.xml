@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0396cdc-bc01-43a0-84fc-c7780708f86e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/file handling/read_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file handling/count_vowels.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
     "Python.atm_validator.executor": "Run",
     "Python.binary_to_decimal.executor": "Run",
     "Python.bus_Seat_allocation.executor": "Run",
+    "Python.count_vowels.executor": "Run",
     "Python.creating_text_file.executor": "Run",
     "Python.dict_comprehesion.executor": "Run",
     "Python.digital_lock.executor": "Run",
@@ -61,6 +62,7 @@
     "Python.password_strength_evaluator.executor": "Run",
     "Python.polymorphism.executor": "Run",
     "Python.prime_range_analyzer.executor": "Run",
+    "Python.read_text.executor": "Run",
     "Python.restaurant.executor": "Run",
     "Python.rev_num.executor": "Run",
     "Python.salary_deduction_system.executor": "Run",
@@ -105,7 +107,7 @@
       <workItem from="1766937014268" duration="9317000" />
       <workItem from="1766984352891" duration="22790000" />
       <workItem from="1767018609656" duration="4637000" />
-      <workItem from="1767063380526" duration="3693000" />
+      <workItem from="1767063380526" duration="4658000" />
     </task>
     <servers />
   </component>
@@ -143,6 +145,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$atm_validator.coverage" NAME="atm_validator Coverage Results" MODIFIED="1766937703346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$vowel_frequency.coverage" NAME="vowel_frequency Coverage Results" MODIFIED="1766946335098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$login_form.coverage" NAME="login_form Coverage Results" MODIFIED="1767000133306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
+    <SUITE FILE_PATH="coverage/PythonProject$count_vowels.coverage" NAME="count_vowels Coverage Results" MODIFIED="1767074724376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$inheritance_Demo.coverage" NAME="inheritance_Demo Coverage Results" MODIFIED="1767063763485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Oops_practice" />
     <SUITE FILE_PATH="coverage/PythonProject$logger_warning_demo.coverage" NAME="logger_warning_demo Coverage Results" MODIFIED="1767004168418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$bus_Seat_allocation.coverage" NAME="bus_Seat_allocation Coverage Results" MODIFIED="1767028955367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
@@ -161,6 +164,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$listcomp_using_ifelse.coverage" NAME="listcomp_using_ifelse Coverage Results" MODIFIED="1767009877091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Lists" />
     <SUITE FILE_PATH="coverage/PythonProject$logger_debug_demo.coverage" NAME="logger_debug_demo Coverage Results" MODIFIED="1767003170216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$student_marks_details.coverage" NAME="student_marks_details Coverage Results" MODIFIED="1767072799611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
+    <SUITE FILE_PATH="coverage/PythonProject$read_text.coverage" NAME="read_text Coverage Results" MODIFIED="1767073695485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$ticket_fare_cal.coverage" NAME="ticket_fare_cal Coverage Results" MODIFIED="1766946469673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$log_complete_info.coverage" NAME="log_complete_info Coverage Results" MODIFIED="1767007100136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$amstrong_number.coverage" NAME="amstrong_number Coverage Results" MODIFIED="1767028772617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
