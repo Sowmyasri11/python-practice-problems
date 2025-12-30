@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0396cdc-bc01-43a0-84fc-c7780708f86e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dict/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dict/dict_comprehesion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file handling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file handling/creating_text_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "Python.atm_validator.executor": "Run",
     "Python.binary_to_decimal.executor": "Run",
     "Python.bus_Seat_allocation.executor": "Run",
+    "Python.creating_text_file.executor": "Run",
     "Python.dict_comprehesion.executor": "Run",
     "Python.digital_lock.executor": "Run",
     "Python.encapsulation.executor": "Run",
@@ -104,7 +105,7 @@
       <workItem from="1766937014268" duration="9317000" />
       <workItem from="1766984352891" duration="22790000" />
       <workItem from="1767018609656" duration="4637000" />
-      <workItem from="1767063380526" duration="1311000" />
+      <workItem from="1767063380526" duration="2505000" />
     </task>
     <servers />
   </component>
@@ -131,6 +132,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$number_pattern.coverage" NAME="number_pattern Coverage Results" MODIFIED="1766947023267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$digital_lock.coverage" NAME="digital_lock Coverage Results" MODIFIED="1767029795108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$binary_to_decimal.coverage" NAME="binary_to_decimal Coverage Results" MODIFIED="1766945670857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
+    <SUITE FILE_PATH="coverage/PythonProject$creating_text_file.coverage" NAME="creating_text_file Coverage Results" MODIFIED="1767072475014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$password_strength_evaluator.coverage" NAME="password_strength_evaluator Coverage Results" MODIFIED="1766939587303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$exam_result.coverage" NAME="exam_result Coverage Results" MODIFIED="1766946072497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$smart_electricity_billing.coverage" NAME="smart_electricity_billing Coverage Results" MODIFIED="1766939056722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
@@ -154,7 +156,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$salary_deduction_system.coverage" NAME="salary_deduction_system Coverage Results" MODIFIED="1766940782376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$types_of_exception.coverage" NAME="types_of_exception Coverage Results" MODIFIED="1766987793286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$restaurant.coverage" NAME="restaurant Coverage Results" MODIFIED="1766992377579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
-    <SUITE FILE_PATH="coverage/PythonProject$dict_comprehesion.coverage" NAME="dict_comprehesion Coverage Results" MODIFIED="1767070025242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Dict" />
+    <SUITE FILE_PATH="coverage/PythonProject$dict_comprehesion.coverage" NAME="dict_comprehesion Coverage Results" MODIFIED="1767070287469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Dict" />
     <SUITE FILE_PATH="coverage/PythonProject$finally_demo.coverage" NAME="finally_demo Coverage Results" MODIFIED="1766993090503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$listcomp_using_ifelse.coverage" NAME="listcomp_using_ifelse Coverage Results" MODIFIED="1767009877091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Lists" />
     <SUITE FILE_PATH="coverage/PythonProject$logger_debug_demo.coverage" NAME="logger_debug_demo Coverage Results" MODIFIED="1767003170216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
