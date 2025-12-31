@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0396cdc-bc01-43a0-84fc-c7780708f86e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oops_practice/car_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_practice/instance_variables_Demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Regular Expressions/creating_re.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Regular Expressions/creating_re.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
     "Python.exception_handling_mechanism.executor": "Run",
     "Python.finally_demo.executor": "Run",
     "Python.inheritance_Demo.executor": "Run",
+    "Python.instance_variables_Demo.executor": "Run",
     "Python.json_demo.executor": "Run",
     "Python.list_comprehension.executor": "Run",
     "Python.listcomp_using_ifelse.executor": "Run",
@@ -124,7 +124,7 @@
       <workItem from="1767018609656" duration="4637000" />
       <workItem from="1767063380526" duration="15503000" />
       <workItem from="1767118846687" duration="825000" />
-      <workItem from="1767156620030" duration="1310000" />
+      <workItem from="1767156620030" duration="3434000" />
     </task>
     <servers />
   </component>
@@ -195,6 +195,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$rev_num.coverage" NAME="rev_num Coverage Results" MODIFIED="1767029178050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$traffic_signal_simulation.coverage" NAME="traffic_signal_simulation Coverage Results" MODIFIED="1766940047313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$restaurant.coverage" NAME="restaurant Coverage Results" MODIFIED="1766992377579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
+    <SUITE FILE_PATH="coverage/PythonProject$instance_variables_Demo.coverage" NAME="instance_variables_Demo Coverage Results" MODIFIED="1767160201995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Oops_practice" />
     <SUITE FILE_PATH="coverage/PythonProject$read_text.coverage" NAME="read_text Coverage Results" MODIFIED="1767073695485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$log_complete_info.coverage" NAME="log_complete_info Coverage Results" MODIFIED="1767007100136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$pickling_unpickling_demo.coverage" NAME="pickling_unpickling_demo Coverage Results" MODIFIED="1767093971583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
