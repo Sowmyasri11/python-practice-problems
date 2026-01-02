@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0396cdc-bc01-43a0-84fc-c7780708f86e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Regular Expressions/metacharacters_Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Regular Expressions/CheckDigits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.AnimalInheritanceDemo.executor": "Run",
+    "Python.CheckDigits.executor": "Run",
     "Python.Regexp_functions.executor": "Run",
     "Python.amstrong_number.executor": "Run",
     "Python.atm_validator.executor": "Run",
@@ -132,7 +133,7 @@
       <workItem from="1767118846687" duration="825000" />
       <workItem from="1767156620030" duration="12101000" />
       <workItem from="1767246323300" duration="1980000" />
-      <workItem from="1767327883421" duration="6403000" />
+      <workItem from="1767327883421" duration="7123000" />
     </task>
     <servers />
   </component>
@@ -217,6 +218,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$smart_door_lock.coverage" NAME="smart_door_lock Coverage Results" MODIFIED="1766947111183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$mobile_number_validation.coverage" NAME="mobile_number_validation Coverage Results" MODIFIED="1766997434586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$rev_num.coverage" NAME="rev_num Coverage Results" MODIFIED="1767029178050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
+    <SUITE FILE_PATH="coverage/PythonProject$CheckDigits.coverage" NAME="CheckDigits Coverage Results" MODIFIED="1767356111188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Regular Expressions" />
     <SUITE FILE_PATH="coverage/PythonProject$metacharacters_Demo.coverage" NAME="metacharacters_Demo Coverage Results" MODIFIED="1767344258396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Regular Expressions" />
     <SUITE FILE_PATH="coverage/PythonProject$traffic_signal_simulation.coverage" NAME="traffic_signal_simulation Coverage Results" MODIFIED="1766940047313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$restaurant.coverage" NAME="restaurant Coverage Results" MODIFIED="1766992377579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
