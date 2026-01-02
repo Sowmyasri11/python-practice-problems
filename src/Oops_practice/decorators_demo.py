@@ -17,3 +17,12 @@ mod_get_product([10,20,30])
 mod_get_product([10,0,30])'''
 get_product([10,20,30])
 get_product([10,0,30])
+
+
+def power_of(ref):
+    def wrapper(lst):
+        lst=list(map(lambda x:x**2,lst))
+        ref(lst)
+    return wrapper
+
+
