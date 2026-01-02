@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0396cdc-bc01-43a0-84fc-c7780708f86e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Regular Expressions/metacharacters_Demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Regular Expressions/Regexp_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Regular Expressions/Regexp_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +68,7 @@
     "Python.logger_warning_demo.executor": "Run",
     "Python.loggers_demo.executor": "Run",
     "Python.login_form.executor": "Run",
+    "Python.metacharacters_Demo.executor": "Run",
     "Python.mobile_battery_drain_simulator.executor": "Run",
     "Python.mobile_number_validation.executor": "Run",
     "Python.number_compression_counter.executor": "Run",
@@ -131,7 +132,7 @@
       <workItem from="1767118846687" duration="825000" />
       <workItem from="1767156620030" duration="12101000" />
       <workItem from="1767246323300" duration="1980000" />
-      <workItem from="1767327883421" duration="4926000" />
+      <workItem from="1767327883421" duration="6403000" />
     </task>
     <servers />
   </component>
@@ -162,7 +163,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$dictreader_demo.coverage" NAME="dictreader_demo Coverage Results" MODIFIED="1767078701073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
-    <SUITE FILE_PATH="coverage/PythonProject$Regexp_functions.coverage" NAME="Regexp_functions Coverage Results" MODIFIED="1767343929370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Regular Expressions" />
+    <SUITE FILE_PATH="coverage/PythonProject$Regexp_functions.coverage" NAME="Regexp_functions Coverage Results" MODIFIED="1767343979584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Regular Expressions" />
     <SUITE FILE_PATH="coverage/PythonProject$creating_csv_file.coverage" NAME="creating_csv_file Coverage Results" MODIFIED="1767077038252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$online_order_discount_engine.coverage" NAME="online_order_discount_engine Coverage Results" MODIFIED="1766945435537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1767334640591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Week1" />
@@ -216,6 +217,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$smart_door_lock.coverage" NAME="smart_door_lock Coverage Results" MODIFIED="1766947111183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$mobile_number_validation.coverage" NAME="mobile_number_validation Coverage Results" MODIFIED="1766997434586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$rev_num.coverage" NAME="rev_num Coverage Results" MODIFIED="1767029178050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
+    <SUITE FILE_PATH="coverage/PythonProject$metacharacters_Demo.coverage" NAME="metacharacters_Demo Coverage Results" MODIFIED="1767344258396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Regular Expressions" />
     <SUITE FILE_PATH="coverage/PythonProject$traffic_signal_simulation.coverage" NAME="traffic_signal_simulation Coverage Results" MODIFIED="1766940047313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$restaurant.coverage" NAME="restaurant Coverage Results" MODIFIED="1766992377579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$instance_variables_Demo.coverage" NAME="instance_variables_Demo Coverage Results" MODIFIED="1767160266393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Oops_practice" />
