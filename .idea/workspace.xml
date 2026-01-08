@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0396cdc-bc01-43a0-84fc-c7780708f86e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Regular Expressions/SplitString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical_review/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical_review/missing_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical_review/remove_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical_review/smallest_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logical_review/water_tapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_set1/sum_of_three_Integer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sowmyasri11&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sowmyasri11/python-practice-problems.git&quot;,
+    &quot;accountId&quot;: &quot;a6e21298-f8cb-4ccb-9cab-a4f63529f57b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -32,12 +49,16 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.2D_array.executor&quot;: &quot;Run&quot;,
     &quot;Python.AnimalInheritanceDemo.executor&quot;: &quot;Run&quot;,
     &quot;Python.CheckCharLen.executor&quot;: &quot;Run&quot;,
     &quot;Python.CheckDigits.executor&quot;: &quot;Run&quot;,
     &quot;Python.Checklowercase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ecommerce_dynamic_discounting.executor&quot;: &quot;Run&quot;,
     &quot;Python.Email_Validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GlobalLogisticsTracker.executor&quot;: &quot;Run&quot;,
     &quot;Python.Regexp_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SplitString.executor&quot;: &quot;Run&quot;,
     &quot;Python.amstrong_number.executor&quot;: &quot;Run&quot;,
     &quot;Python.atm_validator.executor&quot;: &quot;Run&quot;,
     &quot;Python.binary_demo.executor&quot;: &quot;Run&quot;,
@@ -74,6 +95,7 @@
     &quot;Python.loggers_demo.executor&quot;: &quot;Run&quot;,
     &quot;Python.login_form.executor&quot;: &quot;Run&quot;,
     &quot;Python.metacharacters_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.missing_num.executor&quot;: &quot;Run&quot;,
     &quot;Python.mobile_battery_drain_simulator.executor&quot;: &quot;Run&quot;,
     &quot;Python.mobile_number_validation.executor&quot;: &quot;Run&quot;,
     &quot;Python.number_compression_counter.executor&quot;: &quot;Run&quot;,
@@ -86,6 +108,7 @@
     &quot;Python.read_data_from_csv_file.executor&quot;: &quot;Run&quot;,
     &quot;Python.read_from_json.executor&quot;: &quot;Run&quot;,
     &quot;Python.read_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_duplicates.executor&quot;: &quot;Run&quot;,
     &quot;Python.restaurant.executor&quot;: &quot;Run&quot;,
     &quot;Python.rev_num.executor&quot;: &quot;Run&quot;,
     &quot;Python.salary_deduction_system.executor&quot;: &quot;Run&quot;,
@@ -94,6 +117,7 @@
     &quot;Python.static_Demo.executor&quot;: &quot;Run&quot;,
     &quot;Python.store_emp_data.executor&quot;: &quot;Run&quot;,
     &quot;Python.student_marks_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_of_three_Integer.executor&quot;: &quot;Run&quot;,
     &quot;Python.ticket_fare_cal.executor&quot;: &quot;Run&quot;,
     &quot;Python.traffic_signal_simulation.executor&quot;: &quot;Run&quot;,
     &quot;Python.types_of_exception.executor&quot;: &quot;Run&quot;,
@@ -101,6 +125,7 @@
     &quot;Python.validateFileectension.executor&quot;: &quot;Run&quot;,
     &quot;Python.vowel_frequency.executor&quot;: &quot;Run&quot;,
     &quot;Python.water_tank_overflow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.water_tapping.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -141,7 +166,13 @@
       <workItem from="1767246323300" duration="1980000" />
       <workItem from="1767327883421" duration="7731000" />
       <workItem from="1767378654937" duration="1310000" />
-      <workItem from="1767413920371" duration="1128000" />
+      <workItem from="1767413920371" duration="11918000" />
+      <workItem from="1767450825920" duration="1759000" />
+      <workItem from="1767541905228" duration="594000" />
+      <workItem from="1767588442512" duration="10074000" />
+      <workItem from="1767633612081" duration="614000" />
+      <workItem from="1767763146299" duration="628000" />
+      <workItem from="1767846137712" duration="1007000" />
     </task>
     <servers />
   </component>
@@ -174,8 +205,10 @@
     <SUITE FILE_PATH="coverage/PythonProject$dictreader_demo.coverage" NAME="dictreader_demo Coverage Results" MODIFIED="1767078701073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$Regexp_functions.coverage" NAME="Regexp_functions Coverage Results" MODIFIED="1767343979584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Regular Expressions" />
     <SUITE FILE_PATH="coverage/PythonProject$creating_csv_file.coverage" NAME="creating_csv_file Coverage Results" MODIFIED="1767077038252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
+    <SUITE FILE_PATH="coverage/PythonProject$water_tapping.coverage" NAME="water_tapping Coverage Results" MODIFIED="1767607782915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Logical_review" />
     <SUITE FILE_PATH="coverage/PythonProject$online_order_discount_engine.coverage" NAME="online_order_discount_engine Coverage Results" MODIFIED="1766945435537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1767334640591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Week1" />
+    <SUITE FILE_PATH="coverage/PythonProject$GlobalLogisticsTracker.coverage" NAME="GlobalLogisticsTracker Coverage Results" MODIFIED="1767419450811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_Set2" />
     <SUITE FILE_PATH="coverage/PythonProject$digital_lock.coverage" NAME="digital_lock Coverage Results" MODIFIED="1767029795108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$binary_demo.coverage" NAME="binary_demo Coverage Results" MODIFIED="1767085853430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$exam_result.coverage" NAME="exam_result Coverage Results" MODIFIED="1766946072497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
@@ -183,6 +216,9 @@
     <SUITE FILE_PATH="coverage/PythonProject$water_tank_overflow.coverage" NAME="water_tank_overflow Coverage Results" MODIFIED="1767028527357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$atm_validator.coverage" NAME="atm_validator Coverage Results" MODIFIED="1766937703346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$creating_re.coverage" NAME="creating_re Coverage Results" MODIFIED="1767088304883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Regular Expressions" />
+    <SUITE FILE_PATH="coverage/PythonProject$remove_duplicates.coverage" NAME="remove_duplicates Coverage Results" MODIFIED="1767605295930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Logical_review" />
+    <SUITE FILE_PATH="coverage/PythonProject$sum_of_three_Integer.coverage" NAME="sum_of_three_Integer Coverage Results" MODIFIED="1767431018115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
+    <SUITE FILE_PATH="coverage/PythonProject$2D_array.coverage" NAME="2D_array Coverage Results" MODIFIED="1767423404068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$login_form.coverage" NAME="login_form Coverage Results" MODIFIED="1767000133306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$count_vowels.coverage" NAME="count_vowels Coverage Results" MODIFIED="1767074855211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$decorators_demo.coverage" NAME="decorators_demo Coverage Results" MODIFIED="1767171332379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Oops_practice" />
@@ -206,6 +242,8 @@
     <SUITE FILE_PATH="coverage/PythonProject$exception_demo.coverage" NAME="exception_demo Coverage Results" MODIFIED="1766986031119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$creating_copy_of_file.coverage" NAME="creating_copy_of_file Coverage Results" MODIFIED="1767075220460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
     <SUITE FILE_PATH="coverage/PythonProject$number_compression_counter.coverage" NAME="number_compression_counter Coverage Results" MODIFIED="1766946235195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
+    <SUITE FILE_PATH="coverage/PythonProject$missing_num.coverage" NAME="missing_num Coverage Results" MODIFIED="1767604943989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Logical_review" />
+    <SUITE FILE_PATH="coverage/PythonProject$SplitString.coverage" NAME="SplitString Coverage Results" MODIFIED="1767415096221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Regular Expressions" />
     <SUITE FILE_PATH="coverage/PythonProject$logger_error_demo.coverage" NAME="logger_error_demo Coverage Results" MODIFIED="1767005043839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$loggers_demo.coverage" NAME="loggers_demo Coverage Results" MODIFIED="1767001773305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$json_demo.coverage" NAME="json_demo Coverage Results" MODIFIED="1767084873169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/file handling" />
@@ -224,6 +262,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$vowel_frequency.coverage" NAME="vowel_frequency Coverage Results" MODIFIED="1766946335098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_set1" />
     <SUITE FILE_PATH="coverage/PythonProject$inheritance_Demo.coverage" NAME="inheritance_Demo Coverage Results" MODIFIED="1767063763485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Oops_practice" />
     <SUITE FILE_PATH="coverage/PythonProject$static_Demo.coverage" NAME="static_Demo Coverage Results" MODIFIED="1767162932135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Oops_practice" />
+    <SUITE FILE_PATH="coverage/PythonProject$Ecommerce_dynamic_discounting.coverage" NAME="Ecommerce_dynamic_discounting Coverage Results" MODIFIED="1767421819536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice_Set2" />
     <SUITE FILE_PATH="coverage/PythonProject$exception_handling_mechanism.coverage" NAME="exception_handling_mechanism Coverage Results" MODIFIED="1766990904628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Exception_Handling" />
     <SUITE FILE_PATH="coverage/PythonProject$checkStrings.coverage" NAME="checkStrings Coverage Results" MODIFIED="1767378783795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Regular Expressions" />
     <SUITE FILE_PATH="coverage/PythonProject$Email_Validation.coverage" NAME="Email_Validation Coverage Results" MODIFIED="1767379199230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Regular Expressions" />
