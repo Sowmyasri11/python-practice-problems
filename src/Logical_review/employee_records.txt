@@ -1,0 +1,4 @@
+Employee ID: 1
+Employee Name: sowmya
+Employee Salary: 500
+Employee Weekly wage: 30800.0
