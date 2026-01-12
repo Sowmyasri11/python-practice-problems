@@ -1,15 +1,17 @@
 from src.python_testing.student_data import StudentDB
-
-def setup_module(module):
+import pytest
+@pytest.fixture(scope='module')
+def db():
     print("------SetUp------")
-    global db
-    db=StudentDB()
+    db = StudentDB()
     db.connect('src/python_testing/data.json')
-
-def teardown_module(module):
+    yield db
     print("------TearDown------")
     db.close()
-def test_scott_data():
+
+
+
+def test_scott_data(db):
 
     scott_data = db.get_data('Scott')
     assert scott_data['id'] == 1
@@ -17,7 +19,7 @@ def test_scott_data():
     assert scott_data['result'] == 'pass'
 
 
-def test_mark_data():
+def test_mark_data(db):
     mark_data = db.get_data('Mark')
     assert mark_data['id'] == 2
     assert mark_data['name'] == 'Mark'
