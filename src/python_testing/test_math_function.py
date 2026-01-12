@@ -1,10 +1,14 @@
 import pytest
-from src.python_testing.math_functions import multiply
 
-@pytest.fixture
-def numbers():
-    return (2,3)
+from src.python_testing import math_functions
 
-def test_multiply(numbers):
-    a, b=numbers
-    assert multiply(a,b)==6
+
+@pytest.mark.parametrize('num1, num2, result',
+                         [
+                             (7, 3, 10),
+                             ('Hello', ' world', 'Hello world'),
+                             (10.5, 25.5, 36)
+                         ]
+                         )
+def test_add(num1, num2, result):
+    assert math_functions.add(num1, num2) == result
