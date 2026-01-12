@@ -1,9 +1,16 @@
 from src.python_testing.student_data import StudentDB
 
-
-def test_scott_data():
-    db = StudentDB()
+def setup_module(module):
+    print("------SetUp------")
+    global db
+    db=StudentDB()
     db.connect('src/python_testing/data.json')
+
+def teardown_module(module):
+    print("------TearDown------")
+    db.close()
+def test_scott_data():
+
     scott_data = db.get_data('Scott')
     assert scott_data['id'] == 1
     assert scott_data['name'] == 'Scott'
@@ -11,8 +18,6 @@ def test_scott_data():
 
 
 def test_mark_data():
-    db = StudentDB()
-    db.connect('src/python_testing/data.json')
     mark_data = db.get_data('Mark')
     assert mark_data['id'] == 2
     assert mark_data['name'] == 'Mark'
