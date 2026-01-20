@@ -1,7 +1,9 @@
 from src.solid_principles.car import Car
+from src.solid_principles.rechargable import Rechargable
+from src.solid_principles.vehicle import Vehicle
 
 
-class ElectricCar(Car):
+class ElectricCar(Vehicle,Rechargable):
     def __init__(self, make, model, year):
         super().__init__(make, model, year)
 
@@ -10,5 +12,5 @@ class ElectricCar(Car):
 
         return 2000 if age > 5 else 1000
 
-    def refuel(self):
-        raise Exception("Electric Car cannot be refueled. ")
+    def recharge(self):
+        print("Recharging Electric Car. ")

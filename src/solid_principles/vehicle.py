@@ -12,6 +12,3 @@ class Vehicle(ABC):
     def calculate_insurance(self):
         pass
 
-    @abstractmethod
-    def refuel(self):
-        pass
