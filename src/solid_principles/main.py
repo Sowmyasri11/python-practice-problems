@@ -12,8 +12,8 @@ def main():
     formatter = ObjectFormatter()
     print(f"Car Insurance Cost: ${insurance_calculator.calculate_vehicle_insurance(car)}")
     print(f"Truck insurance cost: ${insurance_calculator.calculate_vehicle_insurance(truck)}")
-    print(f"Vehicle Details in JSON:v {formatter.vehicle_to_json(car)}")
-
+    print(f"Car Details in JSON: {formatter.vehicle_to_json(car)}")
+    print(f"Truck Details in JSON: {formatter.vehicle_to_json(truck)}")
 
 if __name__ == "__main__":
     main()
