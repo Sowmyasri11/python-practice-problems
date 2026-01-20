@@ -12,5 +12,6 @@ class ElectricCar(Vehicle,Rechargable):
 
         return 2000 if age > 5 else 1000
 
+
     def recharge(self):
         print("Recharging Electric Car. ")
