@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
 
+
 class Vehicle(ABC):
 
     def __init__(self, make, model, year):
@@ -11,3 +12,6 @@ class Vehicle(ABC):
     def calculate_insurance(self):
         pass
 
+    @abstractmethod
+    def refuel(self):
+        pass
